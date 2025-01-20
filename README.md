@@ -1,5 +1,5 @@
 ## Repository overview 
-This repository contains an interactive data visualization tool built using Python. It's purpose is to visualize a common workflow used in pharmaceutical companies for drug research and development. The interactive visualization tool is capable of summarizing ~6 months worth of lab data into one flow diagram and captures more than 5 different types of data (passage of time, genetic strains of animals, sequencing information of top drug candidates, screening results, drug characterization data, and more.) 
+This repository contains an interactive data visualization tool built using Python and HTML. It's purpose is to visualize a common workflow used in pharmaceutical companies for drug research and development. The interactive visualization tool is capable of summarizing ~6 months worth of lab data into one flow diagram and captures more than 5 different types of data (passage of time, genetic strains of animals, sequencing information of top drug candidates, screening results, drug characterization data, and more.) 
 
 Most importantly, the interactive visualization tool can be used to track the origins of the company's products and serves as a deliverable to clients. 
 
