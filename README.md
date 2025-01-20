@@ -3,7 +3,7 @@ This repository contains an interactive data visualization tool built using Pyth
 
 Most importantly, the interactive visualization tool can be used to track the origins of the company's products and serves as a deliverable to clients. 
 
-This visualization tool was made specifically for employees and customers of Curia Global's Antibody Discovery team in 2023. During this intitative of bringing new tools into the workplace, I worked wih Curia's IT and cybersecurity department to ensure compliancy with all company and client data; and taught bash/python basics to advance the skills of older colleagues.  
+This visualization tool was made specifically for employees and customers of Curia Global's Antibody Discovery team starting in August 2023. During this intitative of introducing new tools into the workplace, I worked wih the research team and Curia's IT/cybersecurity department to ensure compliancy with all company and client data; and taught bash/python basics to advance the skills of older colleagues/scientists.  
 
 #### Inspirations and historical context:
 The most famous use case of this flowmap dates back to 1812 in a picture created by Joseph Minard called [Minard's Map](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) . This map contains 6 different types of data stored in 2 dimensions to summarize Napoleon's Russian Campaign of 1812 (a war in Russia).
@@ -17,8 +17,8 @@ This repository contains...
 - 1 .xlsx file containing a template for the lab scientist to add their data as it is retrieved in the lab. (05082024_TemplateDataSet.xlsx)
 
 ## How to generate your interactive diagram: 
-To use the contents in this repository, it is assumed that the user is familiar with an in-vivo/in-vitro antibody discovery workflow.
-It is also assumed that the user does not have much experience with programming or python notebooks, but has access to the software and has working knowledge of excel.
+To use the contents in this repository, it is assumed that the user (i.e. team members and clients of Curia's Antibody department) is familiar with an in-vivo/in-vitro antibody discovery workflow.
+It is also assumed that the user does not have much experience with programming nor using python notebooks, but has access to the software and has working knowledge of excel.
 1) In the .xslx file, upload the data that corresponds with whats highlighted in yellow.
 2) Save the .xslx file as a .csv file named 05082024_ExampleDataSet.csv .
 3) In the AntibodyRecoveryHits.csv file, replace all your top hits from each screen with what was obtained in the wet-lab. Save your progress.
