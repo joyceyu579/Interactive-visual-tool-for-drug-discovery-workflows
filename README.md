@@ -28,7 +28,7 @@ It is also assumed that the user does not have much experience with programming 
 7) Double click .ipynb file.
 8) Run the notebook. It will take a minute to build the diagram.
 9) When the notebook is done running, you will get a pop up in a new web browser with your interactive image. A file (.html) will also be automatically saved in your computer's downloads folder. 
-10) Double click .html file, and play around with it as you please! Hovering over different nodes and links reveals more information. 
+10) Double click .html file, and your interactive image will appear. Play around with it as you please! Hovering over different nodes and links reveals more information. 
 11) Send .html file to the respective client or team members. 
 
 ## Languages, Libraries, and environment used:
